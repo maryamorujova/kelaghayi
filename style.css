@@ -1,0 +1,141 @@
+body{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	background-color: #FCF6E3;
+}
+
+h1{
+	font-size: 5.5em;
+	font-family: 'sketsa-ramadhan-alternates';
+	color: #F3C320;
+	letter-spacing: 10px;
+	line-height: 10px;
+	padding-left: 80px;
+}
+
+@font-face {
+    font-family: 'sketsa-ramadhan-alternates';
+    src: url('sketsa-ramadhan-alternates.woff') format('woff'),
+         url('sketsa-ramadhan-alternates.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    color: goldenrod;
+}
+
+h2 {
+	font-size: 1 em;
+	font-family: 'baskerville';
+	color: #97856A;
+	letter-spacing: 30px;
+	margin-left: 10px; margin-bottom: 5px; margin-top: 10px;letter-spacing: 1px;
+	line-height: 1px;
+	padding-left: 80px;
+
+}
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+
+
+}
+.image1 {
+  position: absolute;
+  left: 0;
+  padding-top: 0px;
+  
+  
+}
+.image2 {
+  position: absolute;
+  top: 10px;
+  left: 0px;
+ 
+}
+ .image3 {
+  position: absolute;
+  top: 800px;
+  left: 0px;
+  
+}
+img { width: 40vw; 
+	height: auto;
+	max-height:  40vw;
+}
+
+
+
+
+.container1{
+	display: flex;
+	justify-content: left;
+	padding-left: 80px;
+	margin-top: 150px;
+}
+
+
+.image{
+	position: absolute;
+}
+
+.one:hover{
+	opacity: 0; 
+
+}
+
+
+.container2{
+	display: flex;
+	justify-content: safe center;
+	padding-left: 380px;
+	margin-top: -680px;
+}
+
+
+.image{
+	position: absolute;
+	
+}
+
+.one:hover{
+	opacity: 0; 
+
+}
+.container3{
+	display: flex;
+	justify-content: safe left;
+	padding-left: 550px;
+	margin-top: 1850px;
+}
+
+
+.image{
+	position: absolute;
+}
+}
+.one:hover{
+	opacity: 0; 
+
+}
+
+.container4{
+	display: flex;
+	justify-content: safe left;
+	padding-left: 1640px;
+	margin-top: 700px;
+}
+
+
+.image{
+	position: absolute;
+}
+}
+.one:hover{
+	opacity: 0; 
+
+}
+
+
+
+
+
